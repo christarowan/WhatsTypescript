@@ -1,0 +1,23 @@
+{
+  "name": "dictionaryapp",
+  "version": "1.0.0",
+  "description": "typescripthmwk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npmtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christarowan/WhatsTypescript.git"
+  },
+  "author": "christa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christarowan/WhatsTypescript/issues"
+  },
+  "homepage": "https://github.com/christarowan/WhatsTypescript#readme",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "bootstrap": "^5.2.3"
+  }
+}
